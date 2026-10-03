@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of soulteary/flarum-upload.** Not for installation: use [Packagist](https://packagist.org/packages/soulteary/flarum-upload) or the [upstream repository](https://github.com/soulteary/upload).
 
-**0** versions archived · Latest: [`0.7.1`](https://github.com/flarchive/soulteary-flarum-upload/tree/archive/v0.7.1) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**43** versions archived · Latest: [`0.7.1`](https://github.com/flarchive/soulteary-flarum-upload/tree/archive/v0.7.1) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2016-11-03 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/soulteary-flarum-upload/tree/archive/v0.1.0) |
+| `0.1.1` | 2016-11-04 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/soulteary-flarum-upload/tree/archive/v0.1.1) |
+| `0.1.2` | 2016-11-04 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/soulteary-flarum-upload/tree/archive/v0.1.2) |
+| `0.1.3` | 2016-11-04 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/soulteary-flarum-upload/tree/archive/v0.1.3) |
+| `0.2.0` | 2016-11-07 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/soulteary-flarum-upload/tree/archive/v0.2.0) |
+| `0.2.1` | 2016-11-09 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/soulteary-flarum-upload/tree/archive/v0.2.1) |
+| `0.3.0` | 2016-11-11 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/soulteary-flarum-upload/tree/archive/v0.3.0) |
+| `0.3.1` | 2016-11-14 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/soulteary-flarum-upload/tree/archive/v0.3.1) |
+| `0.3.2` | 2016-11-21 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/soulteary-flarum-upload/tree/archive/v0.3.2) |
+| `0.3.3` | 2016-11-22 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/soulteary-flarum-upload/tree/archive/v0.3.3) |
+
+[View all 43 versions](https://github.com/flarchive/soulteary-flarum-upload/tags)
 
 Catalog entry: [packages/soulteary-flarum-upload.json](https://github.com/flarchive/archive-index/blob/main/packages/soulteary-flarum-upload.json)
 
